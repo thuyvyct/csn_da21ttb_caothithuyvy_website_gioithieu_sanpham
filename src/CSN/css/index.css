@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  font-weight: bold;
+}
+.dropdown-menu {
+  font-weight: bold;
+}
+.menu {
+  background-color: hsl(291, 100%, 25%);
+  color: #ffffff;
+  font-weight: bold;
+}
+.content {
+  margin: 0;
+  padding: 0;
+}
+.footer {
+  margin: 0;
+  padding: 0;
+}
+#button1 {
+  border-radius: 8px;
+  background-color: #9900cc;
+}
+#btthem {
+  color: aliceblue;
+}
+#vest {
+  font-style: normal;
+  color: #9900cc;
+}
+#bag {
+  color: #696969;
+}
+#them {
+  color: #9900cc;
+  border-radius: 8px;
+  border-color: #003300;
+}
+.prodTitle .titleTop a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+.row .nav-link {
+  font-size: 14px;
+}
+.top {
+  background-color: #ba55d3;
+}
+.content .p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+.row ul li a {
+  text-decoration: none;
+  color: aliceblue;
+}
